@@ -15,3 +15,6 @@ let nome = 'Carlo';
 console.log(nome);
 nome = 'Marco';
 console.log(nome);
+
+let greet = 'Ciao, Mondo!';
+console.log(greet);
