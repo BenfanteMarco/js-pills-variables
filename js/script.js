@@ -28,3 +28,16 @@ console.log(greetGeneral);
 let greetGeneral2 = `${greet}Come stai?`;
 console.log(greetGeneral2);
 
+//  //  //  //  //  //
+
+let num = 40;
+let num2 = 34;
+let comparison;
+
+if(num > num2){
+    comparison = num;
+}
+else{
+    comparison = num2;
+}
+console.log(comparison);
