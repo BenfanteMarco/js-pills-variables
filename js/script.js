@@ -21,3 +21,10 @@ console.log(greet);
 
 let greet = 'Come stai, Mondo?';
 console.log(greet);
+
+let greetGeneral = greet+'Come stai?';
+console.log(greetGeneral);
+
+let greetGeneral2 = `${greet}Come stai?`;
+console.log(greetGeneral2);
+
