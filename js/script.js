@@ -18,3 +18,6 @@ console.log(nome);
 
 let greet = 'Ciao, Mondo!';
 console.log(greet);
+
+let greet = 'Come stai, Mondo?';
+console.log(greet);
