@@ -41,3 +41,17 @@ else{
     comparison = num2;
 }
 console.log(comparison);
+
+let stringA = 'ciao';
+let stringB = 'ciao';
+
+let comparison;
+
+if(stringA == stringB){
+    comparison = 'stringhe uguali';
+}
+else{
+    comparison = 'stringhe non uguali';
+}
+
+console.log(comparison);
