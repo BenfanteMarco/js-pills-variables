@@ -55,3 +55,16 @@ else{
 }
 
 console.log(comparison);
+
+let number = 50;
+
+let comparison;
+
+if(number == '50'){
+    comparison = true;
+}
+else{
+    comparison = false;
+}
+
+console.log(comparison);
