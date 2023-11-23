@@ -78,3 +78,13 @@ for(let i=1; i<=42; i++){
 for(let i=42; i<=1; i++){
     console.log(i);
 }
+
+// // // // // // // // // //
+
+const numbers = [1,2,3,4,5,6,7,8];
+console.log(nummbers);
+
+const fruits = ['mela','banana','pesca','pera'];
+console.log(fruits);
+
+console.log(fruits.length);
