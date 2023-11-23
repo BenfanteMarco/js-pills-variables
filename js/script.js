@@ -68,3 +68,13 @@ else{
 }
 
 console.log(comparison);
+
+// // // // // // // // //
+
+for(let i=1; i<=42; i++){
+    console.log(i);
+}
+
+for(let i=42; i<=1; i++){
+    console.log(i);
+}
