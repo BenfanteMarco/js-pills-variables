@@ -101,3 +101,6 @@ console.log(fruits.length);
     let result = num1 + num2;
     return result;
  }
+
+ let sum = somma(23,34);
+ console.log(sum);

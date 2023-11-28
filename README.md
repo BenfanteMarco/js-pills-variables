@@ -88,3 +88,7 @@ Richiamare la funzione definita prima
 **Esercizio 2/A**
 
 Definire una funzione che accetti due numeri in input, ne faccia la somma e la restituisca
+
+**Esercizio 2/A**
+
+Chiamare la funzione che esegue la somma, assegnare il valore che restituisce ad una variabile e mostrare il risultato
