@@ -74,3 +74,17 @@ mela, banana, pesca, pera, albicocca, mango, kiwi, papaya
 **Esercizio 1/C**  
 
 Stampa in console il numero di elementi che costituiscono l'array `fruits`
+
+<!--  -->
+
+**Esercizio 1/A**
+
+Definire una funzione che stampi la stringa 'Ciao Mondo'
+
+**Esercizio 1/B**
+
+Richiamare la funzione definita prima
+
+**Esercizio 2/A**
+
+Definire una funzione che accetti due numeri in input, ne faccia la somma e la restituisca

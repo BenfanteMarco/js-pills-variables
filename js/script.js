@@ -88,3 +88,16 @@ const fruits = ['mela','banana','pesca','pera'];
 console.log(fruits);
 
 console.log(fruits.length);
+
+ // // // // // // // // // // //
+
+ function printCiaoMondo(){
+    alert('Ciao Mondo');
+ }
+
+ printCiaoMondo();
+
+ function somma(num1, num2){
+    let result = num1 + num2;
+    return result;
+ }
