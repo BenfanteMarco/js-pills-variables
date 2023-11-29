@@ -104,3 +104,9 @@ console.log(fruits.length);
 
  let sum = somma(23,34);
  console.log(sum);
+
+ function getOneStringFromTwo(string1, string2){
+    return string1 +''+ string2;
+ }
+
+ console.log(getOneStringFromTwo('ciao', 'mondo'));
